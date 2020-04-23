@@ -2,7 +2,7 @@
 
 # FinOps Landscape
 
-![FinOps Landscape Logo](https://landscape.graphql.org/images/left-logo.svg)
+![FinOps Landscape Logo](https://github.com/finopsfoundation/artwork/raw/master/finops-landscape/finops-landscape.svg?sanitize=true)
 
 - [FinOps Landscape](#cloud-native-landscape)
   * [Current Version](#current-version)
