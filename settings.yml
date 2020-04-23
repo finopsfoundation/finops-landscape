@@ -15,7 +15,7 @@ global:
     twitter: '@FinOpsFdn'
     google_site_verification: u_xqWIf8_EzRP4UF92px16rTSoIP49D_g9i7M-4rXds
     ms_validate: 3AF9FFA12CCC3C49C0ABA71CCA222665
-  membership: GraphQL Foundation Member
+  membership: FinOps Foundation Member
   flags:
     hide_license_for_categories:
       - FinOps Adopter
@@ -152,7 +152,7 @@ big_picture:
         children:
           - type: text
             text: |
-              This landscape is intended as a map to explore the GraphQL community, and also shows the member organizations of the GraphQL Foundation.
+              This landscape is intended as a map to explore the FinOps community, and also shows the member organizations of the FinOps Foundation.
             top: 55
             left: 140
             right: 10
@@ -165,7 +165,7 @@ big_picture:
             height: 90
             title: QR Code
           - type: title
-            title: l.graphql.org
+            title: l.finops.org
             top: 140
             left: 5
             font_size: 21
@@ -180,7 +180,7 @@ big_picture:
             width: 109
             right: 10
             top: 10
-            title: GraphQL Foundation Logo
+            title: FinOps Foundation Logo
 test:
   header: FinOps Landscape
   section: FinOps Foundation Member
