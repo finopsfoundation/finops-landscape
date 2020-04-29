@@ -295,57 +295,10 @@ landscape:
         name: FinOps Adopter
         items:
           - item:
-            name: 1stdibs (adopter)
-            homepage_url: 'https://www.1stdibs.com'
-            logo: 1stdibs.svg
-            crunchbase: 'https://www.crunchbase.com/organization/1stdibs'
-          - item:
-            name: 99designs (adopter)
-            homepage_url: 'https://www.99designs.com'
-            logo: 99designs.svg
-            crunchbase: 'https://www.crunchbase.com/organization/99designs'
-          - item:
-            name: Adayroi (adopter)
-            homepage_url: 'https://www.adayroi.com'
-            logo: 'https://aad.asia/wp-content/uploads/2018/05/logos-06.svg'
-            crunchbase: 'https://www.crunchbase.com/organization/a-day-roi'
-          - item:
             name: Airbnb (adopter)
             homepage_url: 'https://www.airbnb.com'
             logo: airbnb.svg
             crunchbase: 'https://www.crunchbase.com/organization/airbnb'
-          - item:
-            name: Alembic (adopter)
-            homepage_url: 'https://alembic.com.au'
-            logo: alembic.svg
-            crunchbase: 'https://www.crunchbase.com/organization/alembic-c6a7'
-          - item:
-            name: Allocine (adopter)
-            homepage_url: 'http://www.allocine.fr/'
-            logo: 'https://www.talentwebacademy.com/twa/images/allocine--logo.svg'
-            twitter: 'https://twitter.com/allocine'
-            crunchbase: 'https://www.crunchbase.com/organization/allocine'
-          - item:
-            name: AlphaSights (adopter)
-            homepage_url: 'https://www.alphasights.com/'
-            logo: alphasights.svg
-            twitter: 'https://twitter.com/alphasights'
-            crunchbase: 'https://www.crunchbase.com/organization/alphasights'
-          - item:
-            name: Amplitude (adopter)
-            homepage_url: 'https://amplitude.com'
-            logo: 'https://d3hotuclm6if1r.cloudfront.net/logos/amplitude-default.svg'
-            crunchbase: 'https://www.crunchbase.com/organization/amplitude'
-          - item:
-            name: Ants (adopter)
-            homepage_url: 'https://ants.vn/'
-            logo: ants.svg
-            crunchbase: 'https://www.crunchbase.com/organization/ants-2'
-          - item:
-            name: Appier (adopter)
-            homepage_url: 'https://www.appier.com/'
-            logo: appier.svg
-            crunchbase: 'https://www.crunchbase.com/organization/appier'
           - item:
             name: Arangodb (adopter)
             homepage_url: 'https://www.arangodb.com/'
@@ -640,6 +593,11 @@ landscape:
             logo: magento.svg
             crunchbase: 'https://www.crunchbase.com/organization/magento'
           - item:
+            name: Nationwide Insurance (adopter)
+            homepage_url: 'https://www.nationwide.com'
+            logo: nationwide-insurance.svg
+            crunchbase: 'https://www.crunchbase.com/organization/nationwide-insurance'
+          - item:
             name: NBC News Digital (adopter)
             homepage_url: 'https://www.nbc.com'
             logo: nbc.svg
@@ -680,50 +638,15 @@ landscape:
             logo: researchgate.svg
             crunchbase: 'https://www.crunchbase.com/organization/researchgate'
           - item:
-            name: Salsify (adopter)
-            homepage_url: 'https://www.salsify.com/'
-            logo: salsify.svg
-            crunchbase: 'https://www.crunchbase.com/organization/salsify'
-          - item:
-            name: Satispay (adopter)
-            homepage_url: 'https://www.satispay.com'
-            logo: satispay.svg
-            crunchbase: 'https://www.crunchbase.com/organization/satispay'
-          - item:
-            name: Serverless
-            homepage_url: 'https://serverless.com/'
-            logo: serverless.svg
-            crunchbase: 'https://www.crunchbase.com/organization/serverless'
-          - item:
             name: Shopify (adopter)
             homepage_url: 'https://www.shopify.com/'
             logo: shopify.svg
             crunchbase: 'https://www.crunchbase.com/organization/shopify'
           - item:
-            name: Stackshare (adopter)
-            homepage_url: 'https://stackshare.io'
-            logo: 'https://communitybridge.org/wp-content/uploads/2019/03/stackshare-color-031319.svg'
-            crunchbase: 'https://www.crunchbase.com/organization/stackshare'
-          - item:
             name: Starbucks (adopter)
             homepage_url: 'https://www.starbucks.com'
             logo: starbucks.svg
             crunchbase: 'https://www.crunchbase.com/organization/starbucks'
-          - item:
-            name: Supply (adopter)
-            homepage_url: 'https://www.supply.com'
-            logo: supply.svg
-            crunchbase: 'https://www.crunchbase.com/organization/supply-com'
-          - item:
-            name: Swapcard (adopter)
-            homepage_url: 'https://www.swapcard.com'
-            logo: swapcard.svg
-            crunchbase: 'https://www.crunchbase.com/organization/swapcard'
-          - item:
-            name: The Guild (adopter)
-            homepage_url: 'https://the-guild.dev/'
-            logo: the_guild.svg
-            crunchbase: 'https://www.crunchbase.com/organization/the-guild-9777'
           - item:
             name: The New York Times (adopter)
             homepage_url: 'https://www.nytco.com/'
