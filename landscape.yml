@@ -300,6 +300,16 @@ landscape:
             logo: airbnb.svg
             crunchbase: 'https://www.crunchbase.com/organization/airbnb'
           - item:
+            name: Amazon Web Services (adopter)
+            homepage_url: 'https://aws.amazon.com/'
+            logo: amazon-web-services.svg
+            crunchbase: 'https://www.crunchbase.com/organization/amazon-web-services'
+          - item:
+            name: Apple (adopter)
+            homepage_url: 'https://www.apple.com/'
+            logo: apple.svg
+            crunchbase: 'https://www.crunchbase.com/organization/apple'
+          - item:
             name: Arangodb (adopter)
             homepage_url: 'https://www.arangodb.com/'
             logo: 'https://landscape.cncf.io/logos/arango-db.svg'
@@ -433,6 +443,11 @@ landscape:
             logo: dailymotion.svg
             twitter: 'https://twitter.com/dailymotion'
             crunchbase: 'https://www.crunchbase.com/organization/dailymotion'
+          - item:
+            name: Datadog (adopter)
+            homepage_url: 'https://www.datadoghq.com/'
+            logo: datadog.svg
+            crunchbase: 'https://www.crunchbase.com/organization/datadog'
           - item:
             name: DevopsInternational (adopter)
             homepage_url: 'https://devopsinternational.nl/'
@@ -592,6 +607,11 @@ landscape:
             stock_ticker: ADBE
             logo: magento.svg
             crunchbase: 'https://www.crunchbase.com/organization/magento'
+          - item:
+            name: Microsoft (adopter)
+            homepage_url: 'https://www.microsoft.com/'
+            logo: microsoft.svg
+            crunchbase: 'https://www.crunchbase.com/organization/microsoft'
           - item:
             name: Nationwide Insurance (adopter)
             homepage_url: 'https://www.nationwide.com'
