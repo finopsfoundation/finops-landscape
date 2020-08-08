@@ -315,6 +315,11 @@ landscape:
             logo: 'https://landscape.cncf.io/logos/arango-db.svg'
             crunchbase: 'https://www.crunchbase.com/organization/arangodb'
           - item:
+            name: Arity (adopter)
+            homepage_url: 'https://www.arity.com/'
+            logo: arity.svg
+            crunchbase: 'https://www.crunchbase.com/organization/arity'
+          - item:
             name: Artsy (adopter)
             homepage_url: 'https://artsy.github.io/'
             logo: artsy.svg
@@ -371,6 +376,15 @@ landscape:
             logo: bynder.svg
             crunchbase: 'https://www.crunchbase.com/organization/bynder'
           - item:
+            name: Cardinal Health (adopter)
+            homepage_url: 'https://www.workfront.com/'
+            logo: cardinal-health.svg
+          - item:
+            name: CareerBuilder (adopter)
+            homepage_url: 'https://www.careerbuilder.com/'
+            logo: careerbuilder.svg
+            crunchbase: 'https://www.crunchbase.com/organization/careerbuilder-com'
+          - item:
             name: Cheddar (adopter)
             homepage_url: 'https://cheddar.com'
             logo: cheddar.svg
@@ -385,6 +399,16 @@ landscape:
             homepage_url: 'https://www.circlehd.com/'
             logo: 'https://www.circlehd.com/img/circlehd-logo.svg'
             crunchbase: 'https://www.crunchbase.com/organization/circlehd'
+          - item:
+            name: Citrix Systems (adopter)
+            homepage_url: 'https://www.citrix.com/'
+            logo: citrix-systems.svg
+            crunchbase: 'https://www.crunchbase.com/organization/citrix-systems'
+          - item:
+            name: Cloudreach (adopter)
+            homepage_url: 'https://www.cloudreach.com/'
+            logo: cloudreach.svg
+            crunchbase: 'https://www.crunchbase.com/organization/cloudreach'
           - item:
             name: Cloverleaf (adopter)
             homepage_url: 'https://cloverleaf.me/'
@@ -479,6 +503,11 @@ landscape:
             homepage_url: 'https://ediket.com/'
             logo: ediket.svg
             crunchbase: 'https://www.crunchbase.com/organization/ediket'
+          - item:
+            name: Electronic Arts (adopter)
+            homepage_url: 'https://www.ea.com/'
+            logo: electronic-arts.svg
+            crunchbase: 'https://www.crunchbase.com/organization/electronicarts'
           - item:
             name: eventOne (adopter)
             homepage_url: 'https://event1.io/'
@@ -613,6 +642,11 @@ landscape:
             logo: microsoft.svg
             crunchbase: 'https://www.crunchbase.com/organization/microsoft'
           - item:
+            name: Moon Active (adopter)
+            homepage_url: 'https://www.moonactive.com/'
+            logo: moon-active.svg
+            crunchbase: 'https://www.crunchbase.com/organization/moon-active-ff8c'
+          - item:
             name: Nationwide Insurance (adopter)
             homepage_url: 'https://www.nationwide.com'
             logo: nationwide-insurance.svg
@@ -658,15 +692,30 @@ landscape:
             logo: researchgate.svg
             crunchbase: 'https://www.crunchbase.com/organization/researchgate'
           - item:
+            name: Richemont (adopter)
+            homepage_url: 'https://www.richemont.com/'
+            logo: richemont.svg
+            crunchbase: 'https://www.crunchbase.com/organization/richemont'
+          - item:
             name: Shopify (adopter)
             homepage_url: 'https://www.shopify.com/'
             logo: shopify.svg
             crunchbase: 'https://www.crunchbase.com/organization/shopify'
           - item:
+            name: Spotify (adopter)
+            homepage_url: 'https://www.spotify.com/'
+            logo: spotify.svg
+            crunchbase: 'https://www.crunchbase.com/organization/spotify'
+          - item:
             name: Starbucks (adopter)
             homepage_url: 'https://www.starbucks.com'
             logo: starbucks.svg
             crunchbase: 'https://www.crunchbase.com/organization/starbucks'
+          - item:
+            name: Telegraph Media Group (adopter)
+            homepage_url: 'https://www.telegraph.co.uk/'
+            logo: telegraph-media-group.svg
+            crunchbase: 'https://www.crunchbase.com/organization/telegraph-media-group'
           - item:
             name: The New York Times (adopter)
             homepage_url: 'https://www.nytco.com/'
@@ -688,8 +737,18 @@ landscape:
             logo: wayfair.svg
             crunchbase: 'https://www.crunchbase.com/organization/wayfair'
           - item:
+            name: Workfront (adopter)
+            homepage_url: 'https://www.workfront.com/'
+            logo: workfront.svg
+            crunchbase: 'https://www.crunchbase.com/organization/workfront'
+          - item:
             name: Yelp
             homepage_url: 'https://www.yelp.com/'
             logo: yelp.svg
             twitter: 'https://twitter.com/yelp'
             crunchbase: 'https://www.crunchbase.com/organization/yelp'
+          - item:
+            name: Zayo (adopter)
+            homepage_url: 'https://www.zayo.com/'
+            logo: zayo.svg
+            crunchbase: 'https://www.crunchbase.com/organization/zayo-group'
