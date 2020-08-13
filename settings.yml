@@ -100,7 +100,7 @@ big_picture:
       height: 840
     elements:
       - type: HorizontalCategory
-        category: Projects
+        category: Training Partners
         rows: 4
         width: 325
         height: 160
@@ -109,7 +109,7 @@ big_picture:
         color: 'rgb(4,81,49)'
         fit_width: true
       - type: HorizontalCategory
-        category: Service Providers
+        category: Service Provider
         rows: 3
         width: 280
         height: 160
@@ -118,7 +118,7 @@ big_picture:
         color: 'rgb(7,136,62)'
         fit_width: true
       - type: HorizontalCategory
-        category: Databases
+        category: Certified Platforms
         rows: 3
         width: 325
         height: 160
