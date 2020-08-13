@@ -1,19 +1,9 @@
 landscape:
   - category:
-    name: Projects
+    name: Training Partners
     subcategories:
       - subcategory:
-        name: Spec
-        items:
-          - item:
-            name: GraphQL Spec
-            homepage_url: 'https://graphql.org'
-            project: foundationproject
-            repo_url: 'https://github.com/graphql/graphql-spec'
-            logo: graphql.svg
-            crunchbase: 'https://www.crunchbase.com/organization/graphql-foundation'
-      - subcategory:
-        name: Tools
+        name: Training Partners
         items:
           - item:
             name: Apollo Angular
@@ -101,10 +91,10 @@ landscape:
             logo: type-graphql.svg
             crunchbase: 'https://www.crunchbase.com/organization/typegraphql'
   - category:
-    name: Databases
+    name: Certified Platforms
     subcategories:
       - subcategory:
-        name: Databases
+        name: Certified Platforms
         items:
           - item:
             name: Arangodb
@@ -148,10 +138,10 @@ landscape:
             logo: yugabyte.svg
             crunchbase: 'https://www.crunchbase.com/organization/yugabyte'
   - category:
-    name: Services
+    name: Service Providers
     subcategories:
       - subcategory:
-        name: Services
+        name: Service Providers
         items:
           - item:
             name: 8base
