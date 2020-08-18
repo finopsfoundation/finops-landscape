@@ -44,11 +44,6 @@ landscape:
             logo: vmware.svg
             crunchbase: 'https://www.crunchbase.com/organization/vmware'
           - item:
-            name: Cloudwize (FOCP)
-            homepage_url: 'https://www.cloudwize.com/'
-            logo: Apptio_logo.svg
-            crunchbase: 'https://www.crunchbase.com/organization/cloudwize'
-          - item:
             name: Kubecost (FOCP)
             homepage_url: 'https://www.kubecost.com/'
             logo: vmware.svg
@@ -145,11 +140,6 @@ landscape:
             homepage_url: 'https://www.timspirit.fr/'
             logo: timspirit.svg
             crunchbase: 'https://www.crunchbase.com/organization/timspirit'
-          - item:
-            name: Cloudwize (member)
-            homepage_url: 'https://www.cloudwize.com'
-            logo: cloudwize.svg
-            crunchbase: 'https://www.crunchbase.com/organization/cloudwize'
           - item:
             name: Kubecost (member)
             homepage_url: 'https://www.kubecost.com/'
