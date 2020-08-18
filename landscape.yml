@@ -141,6 +141,7 @@ landscape:
             homepage_url: 'https://www.timspirit.fr/'
             logo: timspirit.svg
             crunchbase: 'https://www.crunchbase.com/organization/timspirit'
+          - item:
             name: Cloudwize
             homepage_url: 'https://www.cloudwize.com'
             logo: cloudwize.svg
