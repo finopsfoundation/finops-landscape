@@ -11,21 +11,25 @@ landscape:
             logo: Apptio_logo.svg
             crunchbase: 'https://www.crunchbase.com/organization/apptio'
             stock_ticker: null
+            is_large: true
           - item:
             name: VMware (FOTP)
             homepage_url: 'https://www.cloudhealthtech.com/'
             logo: vmware.svg
             crunchbase: 'https://www.crunchbase.com/organization/vmware'
+            is_large: true
           - item:
             name: Contino (FOTP)
             homepage_url: 'https://www.contino.com/'
             logo: contino.svg
             crunchbase: 'https://www.crunchbase.com/organization/contino'
+            is_large: true            
           - item:
             name: Cloudeasier (FOTP)
             homepage_url: 'https://www.cloudeasier.com/'
             logo: cloudeasier.svg
             crunchbase: 'https://www.crunchbase.com/organization/cloudeasier'
+            is_large: true            
   - category:
     name: Certified Platforms
     subcategories:
@@ -46,7 +50,7 @@ landscape:
           - item:
             name: Kubecost (FOCP)
             homepage_url: 'https://www.kubecost.com/'
-            logo: vmware.svg
+            logo: kubecost.svg
             crunchbase: 'https://www.crunchbase.com/organization/kubecost'   
           - item:
             name: Opsani (FOCP)
