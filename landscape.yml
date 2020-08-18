@@ -51,12 +51,12 @@ landscape:
           - item:
             name: Opsani (FOCP)
             homepage_url: 'https://www.opsani.com/'
-            logo: Apptio_logo.svg
+            logo: opsani.svg
             crunchbase: 'https://www.crunchbase.com/organization/opsani'
           - item:
             name: ProsperOps (FOCP)
             homepage_url: 'https://www.prosperops.com/'
-            logo: vmware.svg
+            logo: prosperops.svg
             crunchbase: 'https://www.crunchbase.com/organization/prosperops'   
   - category:
     name: Service Providers
