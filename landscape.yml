@@ -8,7 +8,7 @@ landscape:
           - item:
             name: Apptio
             homepage_url: 'https://www.apptio.com'
-            repo_url: 'https://github.com/apptio
+            repo_url: 'https://github.com/apptio'
             logo: Apptio_logo.svg
             crunchbase: 'https://www.crunchbase.com/organization/apptio'
           - item:
