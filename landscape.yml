@@ -177,268 +177,20 @@ landscape:
             logo: apple.svg
             crunchbase: 'https://www.crunchbase.com/organization/apple'
           - item:
-            name: Arangodb (adopter)
-            homepage_url: 'https://www.arangodb.com/'
-            logo: 'https://landscape.cncf.io/logos/arango-db.svg'
-            crunchbase: 'https://www.crunchbase.com/organization/arangodb'
-          - item:
-            name: Artsy (adopter)
-            homepage_url: 'https://artsy.github.io/'
-            logo: artsy.svg
-            twitter: 'http://twitter.com/artsyopensource'
-            crunchbase: 'https://www.crunchbase.com/organization/art-sy'
-          - item:
-            name: Assertible (adopter)
-            homepage_url: 'https://www.assertible.com'
-            logo: assertible.svg
-            twitter: 'https://twitter.com/assertibleapp'
-            crunchbase: 'https://www.crunchbase.com/organization/assertible'
-          - item:
             name: Atlassian (adopter)
             homepage_url: 'https://www.atlassian.com'
             logo: atlassian.svg
             crunchbase: 'https://www.crunchbase.com/organization/atlassian'
-          - item:
-            name: Attendify (adopter)
-            homepage_url: 'https://attendify.com/'
-            logo: 'https://cdn.attendify.com/website/3.0.114-production/build/img/logo-black.svg'
-            twitter: 'https://twitter.com/attendify'
-            crunchbase: 'https://www.crunchbase.com/organization/attendify'
-          - item:
-            name: Audi (adopter)
-            homepage_url: 'https://audi.com/'
-            logo: audi.svg
-            twitter: 'https://twitter.com/audi'
-            crunchbase: 'https://www.crunchbase.com/organization/audi'
-          - item:
-            name: Bazinga! (adopter)
-            homepage_url: 'https://mybazinga.com/'
-            logo: 'https://app.mybazinga.com/App/img/icons/wordmark.svg'
-            twitter: 'https://twitter.com/getbazinga'
-            crunchbase: 'https://www.crunchbase.com/organization/bazinga-technologies'
-          - item:
-            name: BetterPT (adopter)
-            homepage_url: 'https://betterpt.com/'
-            logo: betterpt.svg
-            crunchbase: 'https://www.crunchbase.com/organization/betterpt-inc'
-          - item:
-            name: Braintree (adopter)
-            homepage_url: 'https://braintreepayments.com/'
-            stock_ticker: PYPL
-            logo: braintree.svg
-            crunchbase: 'https://www.crunchbase.com/organization/braintree-payment-solutions'
-          - item:
-            name: Buildkite (adopter)
-            homepage_url: 'https://buildkite.com/'
-            logo: buildkite.svg
-            crunchbase: 'https://www.crunchbase.com/organization/buildkite'
-          - item:
-            name: Bynder (adopter)
-            homepage_url: 'https://www.bynder.com/en/'
-            logo: bynder.svg
-            crunchbase: 'https://www.crunchbase.com/organization/bynder'
-          - item:
-            name: Cheddar (adopter)
-            homepage_url: 'https://cheddar.com'
-            logo: cheddar.svg
-            crunchbase: 'https://www.crunchbase.com/organization/cheddar-tv'
-          - item:
-            name: Cherre (adopter)
-            homepage_url: 'https://cherre.com'
-            logo: cherre.svg
-            crunchbase: 'https://www.crunchbase.com/organization/cherre'
-          - item:
-            name: CircleHD (adopter)
-            homepage_url: 'https://www.circlehd.com/'
-            logo: 'https://www.circlehd.com/img/circlehd-logo.svg'
-            crunchbase: 'https://www.crunchbase.com/organization/circlehd'
-          - item:
-            name: Cloverleaf (adopter)
-            homepage_url: 'https://cloverleaf.me/'
-            logo: cloverleaf.svg
-            crunchbase: 'https://www.crunchbase.com/organization/cloverleaf-me'
-          - item:
-            name: ClubMed (adopter)
-            homepage_url: 'http://www.clubmed.com/'
-            logo: clubmed.svg
-            crunchbase: 'https://www.crunchbase.com/organization/club-med'
-          - item:
-            name: Colectica (adopter)
-            homepage_url: 'https://www.colectica.com/'
-            logo: colectica.svg
-            crunchbase: 'https://www.crunchbase.com/organization/colectica'
-          - item:
-            name: CommerceTools (adopter)
-            homepage_url: 'https://commercetools.com/'
-            logo: 'https://dev.commercetools.com/assets/img/CT-logo.svg'
-            crunchbase: 'https://www.crunchbase.com/organization/commercetools'
-          - item:
-            name: Compara (adopter)
-            homepage_url: 'https://www.comparaonline.com/'
-            logo: compara.svg
-            twitter: null
-            crunchbase: 'https://www.crunchbase.com/organization/comparaonline'
-          - item:
-            name: Conduit (adopter)
-            homepage_url: 'https://conduithq.com'
-            logo: conduithq.svg
-            crunchbase: 'https://www.crunchbase.com/organization/conduit-analytics'
-          - item:
-            name: Configure One (adopter)
-            homepage_url: 'https://configureone.com'
-            logo: configure-one.svg
-            crunchbase: 'https://www.crunchbase.com/organization/configure-one'
-          - item:
-            name: Coursera (adopter)
-            homepage_url: 'https://www.coursera.org'
-            logo: coursera.svg
-            crunchbase: 'https://www.crunchbase.com/organization/coursera'
-          - item:
-            name: Credit Karma (adopter)
-            homepage_url: 'https://www.creditkarma.com'
-            logo: 'https://blog.creditkarma.com/wp-content/themes/creditkarma-pr/assets/svg/logo.svg'
-            crunchbase: 'https://www.crunchbase.com/organization/credit-karma'
-          - item:
-            name: Curio (adopter)
-            homepage_url: 'https://curio.org/'
-            logo: curio.svg
-            twitter: 'https://twitter.com/curio'
-            crunchbase: 'https://www.crunchbase.com/organization/curio-io'
-          - item:
-            name: DailyMotion (adopter)
-            homepage_url: 'https://www.dailymotion.com/us'
-            logo: dailymotion.svg
-            twitter: 'https://twitter.com/dailymotion'
-            crunchbase: 'https://www.crunchbase.com/organization/dailymotion'
           - item:
             name: Datadog (adopter)
             homepage_url: 'https://www.datadoghq.com/'
             logo: datadog.svg
             crunchbase: 'https://www.crunchbase.com/organization/datadog'
           - item:
-            name: DevopsInternational (adopter)
-            homepage_url: 'https://devopsinternational.nl/'
-            logo: devopsinternational.svg
-            twitter: 'https://twitter.com/DevopsintlAms'
-            crunchbase: 'https://www.crunchbase.com/organization/devopsinternational-bv'
-          - item:
-            name: Directlyrics (adopter)
-            homepage_url: 'https://directlyrics.com/'
-            logo: directlyrics.svg
-            crunchbase: 'https://www.crunchbase.com/organization/directlyrics'
-          - item:
-            name: Drift (adopter)
-            homepage_url: 'https://www.drift.com/'
-            logo: drift.svg
-            crunchbase: 'https://www.crunchbase.com/organization/drift'
-          - item:
-            name: DueDil (adopter)
-            homepage_url: 'https://www.duedil.com'
-            logo: duedil.svg
-            crunchbase: 'https://www.crunchbase.com/organization/duedil'
-          - item:
-            name: Easy Carros (adopter)
-            homepage_url: 'http://www.easycarros.com/'
-            logo: 'https://easycarrista.easycarros.com/assets/images/logo-easycarros-vertical-blue.svg'
-            crunchbase: 'https://www.crunchbase.com/organization/easy-carros'
-          - item:
-            name: Ediket (adopter)
-            homepage_url: 'https://ediket.com/'
-            logo: ediket.svg
-            crunchbase: 'https://www.crunchbase.com/organization/ediket'
-          - item:
-            name: eventOne (adopter)
-            homepage_url: 'https://event1.io/'
-            logo: eventone.svg
-            crunchbase: 'https://www.crunchbase.com/organization/filiosoft'
-          - item:
-            name: Expert360 (adopter)
-            homepage_url: 'https://expert360.com/'
-            logo: expert360.svg
-            crunchbase: 'https://www.crunchbase.com/organization/expert360'
-          - item:
-            name: Facebook (adopter)
-            homepage_url: 'https://www.facebook.com/'
-            logo: facebook.svg
-            crunchbase: 'https://www.crunchbase.com/organization/facebook'
-          - item:
-            name: FAIR Consulting Group (adopter)
-            homepage_url: 'https://faircg.com/'
-            logo: faircg.svg
-            crunchbase: 'https://www.crunchbase.com/organization/fair-consulting-group'
-          - item:
             name: Fairfax Media (adopter)
             homepage_url: 'https://www.fairfaxmedia.com.au/'
             logo: fairfaxmedia.svg
             crunchbase: 'https://www.crunchbase.com/organization/fairfax-media'
-          - item:
-            name: FileJet (adopter)
-            homepage_url: 'https://filejet.io/'
-            logo: 'https://filejet.io/static/media/logo.66d449d6.svg'
-            crunchbase: 'https://www.crunchbase.com/organization/filejet'
-          - item:
-            name: Forward Networks (adopter)
-            homepage_url: 'https://www.forwardnetworks.com/'
-            logo: forward-networks.svg
-            crunchbase: 'https://www.crunchbase.com/organization/forward-networks'
-          - item:
-            name: Gentux (adopter)
-            homepage_url: 'https://www.generationtux.com/'
-            logo: generationtux.svg
-            crunchbase: 'https://www.crunchbase.com/organization/generation-tux'
-          - item:
-            name: GetNinjas (adopter)
-            homepage_url: 'https://www.getninjas.com.br/'
-            logo: getninjas.svg
-            crunchbase: 'https://www.crunchbase.com/organization/getninjas'
-          - item:
-            name: GitHub (adopter)
-            homepage_url: 'https://github.com/'
-            logo: github.svg
-            crunchbase: 'https://www.crunchbase.com/organization/github'
-          - item:
-            name: Goalify (adopter)
-            homepage_url: 'https://goalify.plus/'
-            logo: goalify.svg
-            twitter: 'https://twitter.com/goalify'
-            crunchbase: 'https://www.crunchbase.com/organization/goalify'
-          - item:
-            name: GraphCMS (adopter)
-            homepage_url: 'https://graphcms.com/'
-            logo: 'https://graphcms.com/static/darkLogo-359a30ec36fd51d42ad166818599185f.svg'
-            crunchbase: 'https://www.crunchbase.com/organization/graphcms'
-          - item:
-            name: GraphCool (adopter)
-            homepage_url: 'https://www.graph.cool'
-            logo: graphcool.svg
-            twitter: 'https://twitter.com/graphcool'
-            crunchbase: 'https://www.crunchbase.com/organization/prisma-io'
-          - item:
-            name: Hackages (adopter)
-            homepage_url: 'https://hackages.io/'
-            logo: 'http://2018.css-minsk-js.by/storage/app/media/partners/info/hackages.svg'
-            crunchbase: 'https://www.crunchbase.com/organization/hackages'
-          - item:
-            name: Hijup (adopter)
-            homepage_url: 'https://www.hijup.com/en'
-            logo: hijup.svg
-            crunchbase: 'https://www.crunchbase.com/organization/hijup-com'
-          - item:
-            name: Housing Anywhere (adopter)
-            homepage_url: 'https://housinganywhere.com/'
-            logo: 'https://www.easternenterprise.com/wp-content/uploads/2019/05/logo_Housing_Anywhere.svg'
-            twitter: 'https://twitter.com/HousingAnywhere'
-            crunchbase: 'https://www.crunchbase.com/organization/housinganywhere-com'
-          - item:
-            name: Hudl (adopter)
-            homepage_url: 'https://www.hudl.com'
-            logo: hudl.svg
-            crunchbase: 'https://www.crunchbase.com/organization/hudl'
-          - item:
-            name: Instana (adopter)
-            homepage_url: 'https://www.instana.com/'
-            logo: instana.svg
-            crunchbase: 'https://www.crunchbase.com/organization/instana'
           - item:
             name: Intuit (adopter)
             homepage_url: 'https://www.intuit.com/'
@@ -451,29 +203,10 @@ landscape:
             logo: klm.svg
             crunchbase: 'https://www.crunchbase.com/organization/klm-royal-dutch-airlines'
           - item:
-            name: Kyma (adopter)
-            homepage_url: 'https://kyma-project.io/'
-            repo_url: 'https://github.com/kyma-project/kyma'
-            logo: kyma.svg
-            twitter: 'https://twitter.com/kymaproject'
-            crunchbase: 'https://www.crunchbase.com/organization/sap'
-          - item:
-            name: Loggi (adopter)
-            homepage_url: 'https://www.loggi.com'
-            logo: loggi.svg
-            twitter: 'https://twitter.com/loggi'
-            crunchbase: 'https://www.crunchbase.com/organization/loggi'
-          - item:
             name: Lyft (adopter)
             homepage_url: 'https://www.lyft.com'
             logo: lyft.svg
             crunchbase: 'https://www.crunchbase.com/organization/lyft'
-          - item:
-            name: Magento (adopter)
-            homepage_url: 'https://www.magento.com'
-            stock_ticker: ADBE
-            logo: magento.svg
-            crunchbase: 'https://www.crunchbase.com/organization/magento'
           - item:
             name: Microsoft (adopter)
             homepage_url: 'https://www.microsoft.com/'
@@ -507,24 +240,6 @@ landscape:
             twitter: 'https://twitter.com/pinterest'
             crunchbase: 'https://www.crunchbase.com/organization/pinterest'
           - item:
-            name: Pluralsight (adopter)
-            homepage_url: 'https://www.pluralsight.com/'
-            logo: pluralsight.svg
-            twitter: 'https://twitter.com/pluralsight'
-            crunchbase: 'https://www.crunchbase.com/organization/pluralsight'
-          - item:
-            name: Rakuten
-            homepage_url: 'https://www.rakuten.com/'
-            stock_ticker: RKUNY
-            logo: rakuten.svg
-            twitter: 'https://twitter.com/rakuten'
-            crunchbase: 'https://www.crunchbase.com/organization/rakuten'
-          - item:
-            name: ResearchGate (adopter)
-            homepage_url: 'https://www.researchgate.net/'
-            logo: researchgate.svg
-            crunchbase: 'https://www.crunchbase.com/organization/researchgate'
-          - item:
             name: Shopify (adopter)
             homepage_url: 'https://www.shopify.com/'
             logo: shopify.svg
@@ -544,16 +259,6 @@ landscape:
             homepage_url: 'https://twitter.com/'
             logo: twitter.svg
             crunchbase: 'https://www.crunchbase.com/organization/twitter'
-          - item:
-            name: Vazco (adopter)
-            homepage_url: 'https://vazco.eu'
-            logo: vazco.svg
-            crunchbase: 'https://www.crunchbase.com/organization/vazco'
-          - item:
-            name: Wayfair (adopter)
-            homepage_url: 'https://wayfair.com/'
-            logo: wayfair.svg
-            crunchbase: 'https://www.crunchbase.com/organization/wayfair'
           - item:
             name: Yelp
             homepage_url: 'https://www.yelp.com/'
