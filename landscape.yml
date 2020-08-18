@@ -6,22 +6,23 @@ landscape:
         name: Training Partners
         items:
           - item:
-            name: Apptio
+            name: Apptio (FOTP)
             homepage_url: 'https://www.apptio.com/'
             logo: Apptio_logo.svg
             crunchbase: 'https://www.crunchbase.com/organization/apptio'
+            stock_ticker: null
           - item:
-            name: VMware
+            name: VMware (FOTP)
             homepage_url: 'https://www.cloudhealthtech.com/'
             logo: vmware.svg
             crunchbase: 'https://www.crunchbase.com/organization/vmware'
           - item:
-            name: Contino
+            name: Contino (FOTP)
             homepage_url: 'https://www.contino.com/'
             logo: contino.svg
             crunchbase: 'https://www.crunchbase.com/organization/contino'
           - item:
-            name: Cloudeasier
+            name: Cloudeasier (FOTP)
             homepage_url: 'https://www.cloudeasier.com/'
             logo: cloudeasier.svg
             crunchbase: 'https://www.crunchbase.com/organization/cloudeasier'
@@ -32,32 +33,33 @@ landscape:
         name: Certified Platforms
         items:
           - item:
-            name: Apptio
+            name: Apptio (FOCP)
             homepage_url: 'https://www.apptio.com/'
             logo: Apptio_logo.svg
             crunchbase: 'https://www.crunchbase.com/organization/apptio'
+            stock_ticker: null
           - item:
-            name: VMware
+            name: VMware (FOCP)
             homepage_url: 'https://www.cloudhealthtech.com/'
             logo: vmware.svg
             crunchbase: 'https://www.crunchbase.com/organization/vmware'
           - item:
-            name: Cloudwize
+            name: Cloudwize (FOCP)
             homepage_url: 'https://www.cloudwize.com/'
             logo: Apptio_logo.svg
             crunchbase: 'https://www.crunchbase.com/organization/cloudwize'
           - item:
-            name: Kubecost
+            name: Kubecost (FOCP)
             homepage_url: 'https://www.kubecost.com/'
             logo: vmware.svg
             crunchbase: 'https://www.crunchbase.com/organization/kubecost'   
           - item:
-            name: Opsani
+            name: Opsani (FOCP)
             homepage_url: 'https://www.opsani.com/'
             logo: Apptio_logo.svg
             crunchbase: 'https://www.crunchbase.com/organization/opsani'
           - item:
-            name: ProsperOps
+            name: ProsperOps (FOCP)
             homepage_url: 'https://www.prosperops.com/'
             logo: vmware.svg
             crunchbase: 'https://www.crunchbase.com/organization/prosperops'   
@@ -68,32 +70,33 @@ landscape:
         name: Service Providers
         items:
           - item:
-            name: Apptio
+            name: Apptio (FOSP)
             homepage_url: 'https://www.apptio.com/'
             logo: Apptio_logo.svg
             crunchbase: 'https://www.crunchbase.com/organization/apptio'
+            stock_ticker: null
           - item:
-            name: Cloudeasier
+            name: Cloudeasier (FOSP)
             homepage_url: 'https://www.cloudeasier.com/'
             logo: cloudeasier.svg
             crunchbase: 'https://www.crunchbase.com/organization/cloudeasier'
           - item:
-            name: Cloudsoft
+            name: Cloudsoft (FOSP)
             homepage_url: 'https://www.cloudsoft.com/'
             logo: cloudsoft.svg
             crunchbase: 'https://www.crunchbase.com/organization/cloudsoft'
           - item:
-            name: Contino
+            name: Contino (FOSP)
             homepage_url: 'https://www.contino.com/'
             logo: contino.svg
             crunchbase: 'https://www.crunchbase.com/organization/contino'
           - item:
-            name: Neos
+            name: Neos (FOSP)
             homepage_url: 'https://www.neos.br/'
             logo: neos.svg
             crunchbase: 'https://www.crunchbase.com/organization/neos'
           - item:
-            name: Timspirit
+            name: Timspirit (FOSP)
             homepage_url: 'https://www.timspirit.fr/'
             logo: timspirit.svg
             crunchbase: 'https://www.crunchbase.com/organization/timspirit'
@@ -104,7 +107,7 @@ landscape:
         name: Premier
         items:
           - item:
-            name: VMware
+            name: VMware (member)
             homepage_url: 'https://www.cloudhealthtech.com/'
             logo: vmware.svg
             crunchbase: 'https://www.crunchbase.com/organization/vmware'
@@ -112,32 +115,33 @@ landscape:
         name: General
         items:
           - item:
-            name: Apptio
+            name: Apptio (member)
             homepage_url: 'https://www.apptio.com'
             logo: Apptio_logo.svg
             crunchbase: 'https://www.crunchbase.com/organization/apptio'
+            stock_ticker: null
           - item:
-            name: Cloudeasier
+            name: Cloudeasier (member)
             homepage_url: 'https://www.cloudeasier.com/'
             logo: cloudeasier.svg
             crunchbase: 'https://www.crunchbase.com/organization/cloudeasier'
           - item:
-            name: Cloudsoft
+            name: Cloudsoft (member)
             homepage_url: 'https://www.cloudsoft.com/'
             logo: cloudsoft.svg
             crunchbase: 'https://www.crunchbase.com/organization/cloudsoft'
           - item:
-            name: Contino
+            name: Contino (member)
             homepage_url: 'https://www.contino.com/'
             logo: contino.svg
             crunchbase: 'https://www.crunchbase.com/organization/contino'
           - item:
-            name: Neos
+            name: Neos (member)
             homepage_url: 'https://www.neos.br/'
             logo: neos.svg
             crunchbase: 'https://www.crunchbase.com/organization/neos'
           - item:
-            name: Timspirit
+            name: Timspirit (member)
             homepage_url: 'https://www.timspirit.fr/'
             logo: timspirit.svg
             crunchbase: 'https://www.crunchbase.com/organization/timspirit'
@@ -147,17 +151,17 @@ landscape:
             logo: cloudwize.svg
             crunchbase: 'https://www.crunchbase.com/organization/cloudwize'
           - item:
-            name: Kubecost
+            name: Kubecost (member)
             homepage_url: 'https://www.kubecost.com/'
             logo: kubecost.svg
             crunchbase: 'https://www.crunchbase.com/organization/kubecost'   
           - item:
-            name: Opsani
+            name: Opsani (member)
             homepage_url: 'https://www.opsani.com'
             logo: opsani.svg
             crunchbase: 'https://www.crunchbase.com/organization/opsani'
           - item:
-            name: ProsperOps
+            name: ProsperOps (member)
             homepage_url: 'https://www.prosperops.com/'
             logo: prosperops.svg
             crunchbase: 'https://www.crunchbase.com/organization/prosperops'   
