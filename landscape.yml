@@ -25,7 +25,6 @@ landscape:
             homepage_url: 'https://www.cloudeasier.com/'
             logo: cloudeasier.svg
             crunchbase: 'https://www.crunchbase.com/organization/cloudeasier'
-        
   - category:
     name: Certified Platforms
     subcategories:
@@ -42,6 +41,26 @@ landscape:
             homepage_url: 'https://www.cloudhealthtech.com/'
             logo: vmware.svg
             crunchbase: 'https://www.crunchbase.com/organization/vmware'
+          - item:
+            name: Cloudwize
+            homepage_url: 'https://www.cloudwize.com'
+            logo: Apptio_logo.svg
+            crunchbase: 'https://www.crunchbase.com/organization/cloudwize'
+          - item:
+            name: Kubecost
+            homepage_url: 'https://www.kubecost.com/'
+            logo: vmware.svg
+            crunchbase: 'https://www.crunchbase.com/organization/kubecost'   
+          - item:
+            name: Opsani
+            homepage_url: 'https://www.opsani.com'
+            logo: Apptio_logo.svg
+            crunchbase: 'https://www.crunchbase.com/organization/opsani'
+          - item:
+            name: ProsperOps
+            homepage_url: 'https://www.prosperops.com/'
+            logo: vmware.svg
+            crunchbase: 'https://www.crunchbase.com/organization/prosperops'   
   - category:
     name: Service Providers
     subcategories:
@@ -53,119 +72,93 @@ landscape:
             homepage_url: 'https://www.apptio.com'
             logo: Apptio_logo.svg
             crunchbase: 'https://www.crunchbase.com/organization/apptio'
+          - item:
+            name: Cloudeasier
+            homepage_url: 'https://www.cloudeasier.com/'
+            logo: cloudeasier.svg
+            crunchbase: 'https://www.crunchbase.com/organization/cloudeasier'
+          - item:
+            name: Cloudsoft
+            homepage_url: 'https://www.cloudsoft.com/'
+            logo: cloudsoft.svg
+            crunchbase: 'https://www.crunchbase.com/organization/cloudsoft'
+          - item:
+            name: Contino
+            homepage_url: 'https://www.contino.com/'
+            logo: contino.svg
+            crunchbase: 'https://www.crunchbase.com/organization/contino'
+          - item:
+            name: Neos
+            homepage_url: 'https://www.neos.br/'
+            logo: neos.svg
+            crunchbase: 'https://www.crunchbase.com/organization/neos'
+          - item:
+            name: Timspirit
+            homepage_url: 'https://www.timspirit.fr/'
+            logo: timspirit.svg
+            crunchbase: 'https://www.crunchbase.com/organization/timspirit'
   - category:
     name: FinOps Foundation Member
     subcategories:
       - subcategory:
+        name: Premier
+          - item:
+            name: VMware
+            homepage_url: 'https://www.cloudhealthtech.com/'
+            logo: vmware.svg
+            crunchbase: 'https://www.crunchbase.com/organization/vmware'
+      - subcategory:
         name: General
         items:
           - item:
-            name: 8base (member)
-            homepage_url: 'https://8base.com'
-            logo: 8base.svg
-            twitter: 'https://twitter.com/8base'
-            crunchbase: 'https://www.crunchbase.com/organization/8base-2'
+            name: Apptio
+            homepage_url: 'https://www.apptio.com'
+            logo: Apptio_logo.svg
+            crunchbase: 'https://www.crunchbase.com/organization/apptio'
           - item:
-            name: Airbnb (member)
-            homepage_url: 'https://www.airbnb.com'
-            logo: airbnb.svg
-            crunchbase: 'https://www.crunchbase.com/organization/airbnb'
+            name: Cloudeasier
+            homepage_url: 'https://www.cloudeasier.com/'
+            logo: cloudeasier.svg
+            crunchbase: 'https://www.crunchbase.com/organization/cloudeasier'
           - item:
-            name: Amazon Web Services (member)
-            homepage_url: 'https://aws.amazon.com/'
-            logo: amazon-web-services.svg
-            crunchbase: 'https://www.crunchbase.com/organization/amazon-web-services'
+            name: Cloudsoft
+            homepage_url: 'https://www.cloudsoft.com/'
+            logo: cloudsoft.svg
+            crunchbase: 'https://www.crunchbase.com/organization/cloudsoft'
           - item:
-            name: Apollo GraphQL (member)
-            homepage_url: 'https://www.apollographql.com/'
-            logo: apollo-graphql.svg
-            crunchbase: 'https://www.crunchbase.com/organization/meteor'
+            name: Contino
+            homepage_url: 'https://www.contino.com/'
+            logo: contino.svg
+            crunchbase: 'https://www.crunchbase.com/organization/contino'
           - item:
-            name: Dgraph Labs (member)
-            homepage_url: 'https://dgraph.io/'
-            logo: dgraph-labs.svg
-            crunchbase: 'https://www.crunchbase.com/organization/dgraph'
+            name: Neos
+            homepage_url: 'https://www.neos.br/'
+            logo: neos.svg
+            crunchbase: 'https://www.crunchbase.com/organization/neos'
           - item:
-            name: Elementl (member)
-            homepage_url: 'https://www.elementl.com/'
-            logo: elementl.svg
-            crunchbase: 'https://www.crunchbase.com/organization/elementl'
+            name: Timspirit
+            homepage_url: 'https://www.timspirit.fr/'
+            logo: timspirit.svg
+            crunchbase: 'https://www.crunchbase.com/organization/timspirit'
+            name: Cloudwize
+            homepage_url: 'https://www.cloudwize.com'
+            logo: cloudwize.svg
+            crunchbase: 'https://www.crunchbase.com/organization/cloudwize'
           - item:
-            name: Expedia Group (member)
-            homepage_url: 'https://expediagroup.com'
-            stock_ticker: IAC
-            logo: expedia-group.svg
-            crunchbase: 'https://www.crunchbase.com/organization/expedia'
+            name: Kubecost
+            homepage_url: 'https://www.kubecost.com/'
+            logo: kubecost.svg
+            crunchbase: 'https://www.crunchbase.com/organization/kubecost'   
           - item:
-            name: Facebook (member)
-            homepage_url: 'https://www.facebook.com/'
-            logo: facebook.svg
-            crunchbase: 'https://www.crunchbase.com/organization/facebook'
+            name: Opsani
+            homepage_url: 'https://www.opsani.com'
+            logo: opsani.svg
+            crunchbase: 'https://www.crunchbase.com/organization/opsani'
           - item:
-            name: Fauna (member)
-            homepage_url: 'https://fauna.com/'
-            logo: fauna.svg
-            crunchbase: 'https://www.crunchbase.com/organization/fauna'
-          - item:
-            name: Gatsby (member)
-            homepage_url: 'https://www.gatsbyjs.org/'
-            logo: gatsby.svg
-            crunchbase: 'https://www.crunchbase.com/organization/gatsby-e828'
-          - item:
-            name: Hasura (member)
-            homepage_url: 'https://hasura.io'
-            logo: hasura.svg
-            crunchbase: 'https://www.crunchbase.com/organization/hasura'
-          - item:
-            name: IBM (member)
-            homepage_url: 'https://www.ibm.com/'
-            logo: ibm.svg
-            crunchbase: 'https://www.crunchbase.com/organization/ibm'
-          - item:
-            name: Intuit (member)
-            homepage_url: 'https://www.intuit.com/'
-            logo: intuit.svg
-            crunchbase: 'https://www.crunchbase.com/organization/intuit'
-          - item:
-            name: Neo4j (member)
-            homepage_url: 'https://neo4j.com/'
-            logo: neo4j.svg
-            crunchbase: 'https://www.crunchbase.com/organization/neo-technology'
-          - item:
-            name: Novvum (member)
-            homepage_url: 'https://novvum.io/'
-            logo: novvum.svg
-            crunchbase: 'https://www.crunchbase.com/organization/novvum'
-          - item:
-            name: PayPal (member)
-            homepage_url: 'https://paypal.com/'
-            logo: paypal.svg
-            crunchbase: 'https://www.crunchbase.com/organization/paypal'
-          - item:
-            name: Prisma (member)
-            homepage_url: 'https://prisma.io/'
-            logo: prisma.svg
-            crunchbase: 'https://www.crunchbase.com/organization/prisma-io'
-          - item:
-            name: Salsify (member)
-            homepage_url: 'https://www.salsify.com'
-            logo: salsify.svg
-            crunchbase: 'https://www.crunchbase.com/organization/salsify'
-          - item:
-            name: Shopify (member)
-            homepage_url: 'https://www.shopify.com'
-            logo: shopify.svg
-            crunchbase: 'https://www.crunchbase.com/organization/shopify'
-          - item:
-            name: The Guild (member)
-            homepage_url: 'https://the-guild.dev/'
-            logo: the_guild.svg
-            crunchbase: 'https://www.crunchbase.com/organization/the-guild-9777'
-          - item:
-            name: Twitter (member)
-            homepage_url: 'https://twitter.com/'
-            logo: twitter.svg
-            crunchbase: 'https://www.crunchbase.com/organization/twitter'
+            name: ProsperOps
+            homepage_url: 'https://www.prosperops.com/'
+            logo: prosperops.svg
+            crunchbase: 'https://www.crunchbase.com/organization/prosperops'   
   - category:
     name: FinOps Adopter
     subcategories:
