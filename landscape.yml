@@ -550,7 +550,7 @@ landscape:
             logo: 'https://landscape.cncf.io/logos/the-new-york-times-supporter.svg'
             crunchbase: 'https://www.crunchbase.com/organization/newyorktimes'
           - item:
-            name: Twitter
+            name: Twitter (adopter)
             homepage_url: 'https://twitter.com/'
             logo: twitter.svg
             crunchbase: 'https://www.crunchbase.com/organization/twitter'
