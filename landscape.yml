@@ -1,110 +1,27 @@
 landscape:
   - category:
-    name: Projects
+    name: Training Partners
     subcategories:
       - subcategory:
-        name: Spec
+        name: Training Partners
         items:
           - item:
-            name: GraphQL Spec
-            homepage_url: 'https://graphql.org'
-            project: foundationproject
-            repo_url: 'https://github.com/graphql/graphql-spec'
-            logo: graphql.svg
-            crunchbase: 'https://www.crunchbase.com/organization/graphql-foundation'
-      - subcategory:
-        name: Tools
-        items:
+            name: Apptio
+            homepage_url: 'https://www.apptio.com'
+            logo: Apptio_logo.svg
+            crunchbase: 'https://www.crunchbase.com/organization/apptio'
+            stock_ticker: null
           - item:
-            name: Apollo Angular
-            homepage_url: 'https://www.apollographql.com/docs/angular'
-            repo_url: 'https://github.com/apollographql/apollo-angular'
-            logo: apollo-angular.svg
-            crunchbase: 'https://www.crunchbase.com/organization/the-guild-9777'
-          - item:
-            name: Apollo CLI
-            homepage_url: 'https://www.apollographql.com/'
-            repo_url: 'https://github.com/apollographql/apollo-tooling'
-            logo: apollo-cli.svg
-            crunchbase: 'https://www.crunchbase.com/organization/meteor'
-          - item:
-            name: GraphiQL
-            homepage_url: 'https://github.com/graphql/graphiql'
-            project: foundationproject
-            repo_url: 'https://github.com/graphql/graphiql'
-            logo: graphiql.svg
-            crunchbase: 'https://www.crunchbase.com/organization/graphql-foundation'
-          - item:
-            name: GraphQL CLI
-            homepage_url: 'https://github.com/urigo/graphql-cli'
-            repo_url: 'https://github.com/urigo/graphql-cli'
-            logo: graphql-cli.svg
-            crunchbase: 'https://www.crunchbase.com/organization/the-guild-9777'
-          - item:
-            name: GraphQL Code Generator
-            homepage_url: 'http://graphql-code-generator.com'
-            repo_url: 'https://github.com/dotansimha/graphql-code-generator'
-            logo: graphql-code-generator.svg
-            crunchbase: 'https://www.crunchbase.com/organization/the-guild-9777'
-          - item:
-            name: GraphQL Config
-            homepage_url: 'https://graphql-config.com'
-            repo_url: 'https://github.com/kamilkisiela/graphql-config'
-            logo: graphql-config.svg
-            crunchbase: 'https://www.crunchbase.com/organization/the-guild-9777'
-          - item:
-            name: GraphQL Inspector
-            homepage_url: 'https://graphql-inspector.com'
-            repo_url: 'https://github.com/kamilkisiela/graphql-inspector'
-            logo: graphql-Inspector.svg
-            crunchbase: 'https://www.crunchbase.com/organization/the-guild-9777'
-          - item:
-            name: GraphQL Mesh
-            homepage_url: 'https://graphql-mesh.com'
-            repo_url: 'https://github.com/Urigo/graphql-mesh'
-            logo: graphql-mesh.svg
-            crunchbase: 'https://www.crunchbase.com/organization/the-guild-9777'
-          - item:
-            name: GraphQL Modules
-            homepage_url: 'https://graphql-modules.com'
-            repo_url: 'https://github.com/Urigo/graphql-modules'
-            logo: graphql-modules.svg
-            crunchbase: 'https://www.crunchbase.com/organization/the-guild-9777'
-          - item:
-            name: GraphQL Scalars
-            homepage_url: 'https://github.com/Urigo/graphql-scalars'
-            repo_url: 'https://github.com/Urigo/graphql-scalars'
-            logo: graphql-scalars.svg
-            crunchbase: 'https://www.crunchbase.com/organization/the-guild-9777'
-          - item:
-            name: merge-graphql-schemas
-            homepage_url: 'https://github.com/urigo/merge-graphql-schemas'
-            repo_url: 'https://github.com/urigo/merge-graphql-schemas'
-            logo: merge-graphql-schemas.svg
-            crunchbase: 'https://www.crunchbase.com/organization/the-guild-9777'
-          - item:
-            name: SOFA
-            homepage_url: 'http://sofa-api.com'
-            repo_url: 'https://github.com/Urigo/sofa'
-            logo: sofa.svg
-            crunchbase: 'https://www.crunchbase.com/organization/the-guild-9777'
-          - item:
-            name: Tartiflette
-            homepage_url: 'https://tartiflette.io'
-            repo_url: 'https://github.com/tartiflette/tartiflette'
-            logo: tartiflette.svg
-            crunchbase: 'https://www.crunchbase.com/organization/dailymotion'
-          - item:
-            name: TypeGraphQL
-            homepage_url: 'https://typegraphql.ml'
-            repo_url: 'https://github.com/MichalLytek/type-graphql'
-            logo: type-graphql.svg
-            crunchbase: 'https://www.crunchbase.com/organization/typegraphql'
+            name: VMware
+            homepage_url: 'https://www.cloudhealthtech.com/'
+            logo: vmware.svg
+            crunchbase: 'https://www.crunchbase.com/organization/vmware'
+        
   - category:
-    name: Databases
+    name: Certified Platforms
     subcategories:
       - subcategory:
-        name: Databases
+        name: Certified Platforms
         items:
           - item:
             name: Arangodb
@@ -148,10 +65,10 @@ landscape:
             logo: yugabyte.svg
             crunchbase: 'https://www.crunchbase.com/organization/yugabyte'
   - category:
-    name: Services
+    name: Service Providers
     subcategories:
       - subcategory:
-        name: Services
+        name: Service Providers
         items:
           - item:
             name: 8base
