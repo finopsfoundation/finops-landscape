@@ -7,7 +7,7 @@ landscape:
         items:
           - item:
             name: Apptio
-            homepage_url: 'https://www.apptio.com'
+            homepage_url: 'https://www.apptio.com/'
             logo: Apptio_logo.svg
             crunchbase: 'https://www.crunchbase.com/organization/apptio'
           - item:
@@ -33,7 +33,7 @@ landscape:
         items:
           - item:
             name: Apptio
-            homepage_url: 'https://www.apptio.com'
+            homepage_url: 'https://www.apptio.com/'
             logo: Apptio_logo.svg
             crunchbase: 'https://www.crunchbase.com/organization/apptio'
           - item:
@@ -43,7 +43,7 @@ landscape:
             crunchbase: 'https://www.crunchbase.com/organization/vmware'
           - item:
             name: Cloudwize
-            homepage_url: 'https://www.cloudwize.com'
+            homepage_url: 'https://www.cloudwize.com/'
             logo: Apptio_logo.svg
             crunchbase: 'https://www.crunchbase.com/organization/cloudwize'
           - item:
@@ -53,7 +53,7 @@ landscape:
             crunchbase: 'https://www.crunchbase.com/organization/kubecost'   
           - item:
             name: Opsani
-            homepage_url: 'https://www.opsani.com'
+            homepage_url: 'https://www.opsani.com/'
             logo: Apptio_logo.svg
             crunchbase: 'https://www.crunchbase.com/organization/opsani'
           - item:
@@ -69,7 +69,7 @@ landscape:
         items:
           - item:
             name: Apptio
-            homepage_url: 'https://www.apptio.com'
+            homepage_url: 'https://www.apptio.com/'
             logo: Apptio_logo.svg
             crunchbase: 'https://www.crunchbase.com/organization/apptio'
           - item:
