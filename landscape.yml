@@ -102,7 +102,7 @@ landscape:
     subcategories:
       - subcategory:
         name: Premier
-          - item:
+         - item:
             name: VMware
             homepage_url: 'https://www.cloudhealthtech.com/'
             logo: vmware.svg
