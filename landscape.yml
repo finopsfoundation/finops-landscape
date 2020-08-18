@@ -46,7 +46,7 @@ landscape:
           - item:
             name: Kubecost (FOCP)
             homepage_url: 'https://www.kubecost.com/'
-            logo: vmware.svg
+            logo: kubecost.svg
             crunchbase: 'https://www.crunchbase.com/organization/kubecost'   
           - item:
             name: Opsani (FOCP)
