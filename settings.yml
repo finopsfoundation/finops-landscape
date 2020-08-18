@@ -58,6 +58,7 @@ membership:
     name: FinOps
     label: Member
     funding: Premier
+    is_large: true
   linux_foundation:
     name: LF
     label: Project
