@@ -44,6 +44,11 @@ landscape:
             logo: cloudhealth.svg
             crunchbase: 'https://www.crunchbase.com/organization/vmware'
           - item:
+            name: Cloudwize (FOTP)
+            homepage_url: 'https://www.cloudwize.com/'
+            logo: cloudwize.svg
+            crunchbase: 'https://www.crunchbase.com/organization/cloudwize'
+          - item:
             name: Kubecost (FOCP)
             homepage_url: 'https://www.kubecost.com/'
             logo: kubecost.svg
