@@ -14,7 +14,7 @@ landscape:
           - item:
             name: VMware (FOTP)
             homepage_url: 'https://www.cloudhealthtech.com/'
-            logo: vmware.svg
+            logo: cloudhealth.svg
             crunchbase: 'https://www.crunchbase.com/organization/vmware'
           - item:
             name: Contino (FOTP)
@@ -41,7 +41,7 @@ landscape:
           - item:
             name: VMware (FOCP)
             homepage_url: 'https://www.cloudhealthtech.com/'
-            logo: vmware.svg
+            logo: cloudhealth.svg
             crunchbase: 'https://www.crunchbase.com/organization/vmware'
           - item:
             name: Kubecost (FOCP)
@@ -104,7 +104,7 @@ landscape:
           - item:
             name: VMware (member)
             homepage_url: 'https://www.cloudhealthtech.com/'
-            logo: vmware.svg
+            logo: cloudhealth.svg
             crunchbase: 'https://www.crunchbase.com/organization/vmware'
       - subcategory:
         name: General
