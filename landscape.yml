@@ -89,7 +89,7 @@ landscape:
             name: Neos (FOSP)
             homepage_url: 'https://www.neos.br/'
             logo: neos.svg
-            crunchbase: 'https://www.crunchbase.com/organization/neos'
+            crunchbase: 'https://www.crunchbase.com/organization/neos-b2b0'
           - item:
             name: Timspirit (FOSP)
             homepage_url: 'https://www.timspirit.fr/'
