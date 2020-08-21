@@ -61,7 +61,7 @@ landscape:
           - item:
             name: ProsperOps (FOCP)
             homepage_url: 'https://www.prosperops.com/'
-            logo: prosperops.svg
+            logo: prosper.svg
             crunchbase: 'https://www.crunchbase.com/organization/prosperops'   
   - category:
     name: Service Providers
@@ -158,7 +158,7 @@ landscape:
           - item:
             name: ProsperOps (member)
             homepage_url: 'https://www.prosperops.com/'
-            logo: prosperops.svg
+            logo: prosper.svg
             crunchbase: 'https://www.crunchbase.com/organization/prosperops'   
   - category:
     name: FinOps Adopter
