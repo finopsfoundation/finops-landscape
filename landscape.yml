@@ -131,6 +131,11 @@ landscape:
             logo: cloudsoft.svg
             crunchbase: 'https://www.crunchbase.com/organization/cloudsoft'
           - item:
+            name: Cloudwize (member)
+            homepage_url: 'https://www.cloudwize.io/'
+            logo: cloudwize.svg
+            crunchbase: 'https://www.crunchbase.com/organization/cloudwize'
+          - item:
             name: Contino (member)
             homepage_url: 'https://www.contino.com/'
             logo: contino.svg
