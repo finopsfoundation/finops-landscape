@@ -45,7 +45,7 @@ landscape:
             crunchbase: 'https://www.crunchbase.com/organization/vmware'
           - item:
             name: Cloudwize (FOTP)
-            homepage_url: 'https://www.cloudwize.com/'
+            homepage_url: 'https://www.cloudwize.io/'
             logo: cloudwize.svg
             crunchbase: 'https://www.crunchbase.com/organization/cloudwize'
           - item:
@@ -92,7 +92,7 @@ landscape:
             crunchbase: 'https://www.crunchbase.com/organization/contino'
           - item:
             name: Neos (FOSP)
-            homepage_url: 'https://www.neos.br/'
+            homepage_url: 'https://www.neos.hr/'
             logo: neos.svg
             crunchbase: 'https://www.crunchbase.com/organization/neos-b2b0'
           - item:
@@ -137,9 +137,9 @@ landscape:
             crunchbase: 'https://www.crunchbase.com/organization/contino'
           - item:
             name: Neos (member)
-            homepage_url: 'https://www.neos.br/'
+            homepage_url: 'https://www.neos.hr/'
             logo: neos.svg
-            crunchbase: 'https://www.crunchbase.com/organization/neos'
+            crunchbase: 'https://www.crunchbase.com/organization/neos-b2b0'
           - item:
             name: Timspirit (member)
             homepage_url: 'https://www.timspirit.fr/'
