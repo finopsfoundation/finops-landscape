@@ -242,6 +242,7 @@ landscape:
             homepage_url: 'https://www.apple.com/'
             logo: apple.svg
             crunchbase: 'https://www.crunchbase.com/organization/apple'
+            twitter: 'https://twitter.com/apple'
           - item:
             name: Atlassian (adopter)
             homepage_url: 'https://www.atlassian.com'
