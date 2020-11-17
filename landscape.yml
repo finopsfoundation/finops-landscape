@@ -18,7 +18,7 @@ landscape:
           - item:
             name: CloudCMx (FOTP)
             homepage_url: 'https://www.cloudcmx.com/'
-            logo: cloudcmx.svg
+            logo: cloudcmx.png
           - item:
             name: Contino (FOTP)
             homepage_url: 'https://www.contino.com/'
@@ -119,7 +119,7 @@ landscape:
           - item:
             name: SoftwareOne (FOSP)
             homepage_url: 'https://www.softwareone.com/en-gb/'
-            logo: softwareone.svg
+            logo: softwareone.png
           - item:
             name: Timspirit (FOSP)
             homepage_url: 'https://www.timspirit.fr/'
@@ -151,7 +151,7 @@ landscape:
           - item:
             name: CloudCMx (member)
             homepage_url: 'https://www.cloudcmx.com/'
-            logo: cloudcmx.svg
+            logo: cloudcmx.png
           - item:
             name: Cloudeasier (member)
             homepage_url: 'https://www.cloudeasier.com/'
@@ -194,7 +194,7 @@ landscape:
           - item:
             name: PyraCloud(SoftwareOne) (member)
             homepage_url: 'https://www.softwareone.com/en-gb/pyracloud'
-            logo: pyracloud.svg
+            logo: softwareone.png
           - item:
             name: Timspirit (member)
             homepage_url: 'https://www.timspirit.fr/'
