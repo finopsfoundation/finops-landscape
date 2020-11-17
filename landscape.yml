@@ -19,7 +19,7 @@ landscape:
           - item:
             name: CloudCMx (FOTP)
             homepage_url: 'https://www.cloudcmx.com/'
-            logo: cloudcmx.png
+            logo: cloudcmx.svg
           - item:
             name: Contino (FOTP)
             homepage_url: 'https://www.contino.com/'
