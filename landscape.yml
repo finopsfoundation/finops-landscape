@@ -10,6 +10,7 @@ landscape:
             homepage_url: 'https://www.apptio.com/'
             logo: Apptio_logo.svg
             crunchbase: 'https://www.crunchbase.com/organization/apptio'
+            stock_ticker: null
           - item:
             name: Cloudhealth (FOTP)
             homepage_url: 'https://www.cloudhealthtech.com/'
@@ -148,6 +149,7 @@ landscape:
             homepage_url: 'https://www.apptio.com'
             logo: Apptio_logo.svg
             crunchbase: 'https://www.crunchbase.com/organization/apptio'
+            stock_ticker: null
           - item:
             name: CloudCMx (member)
             homepage_url: 'https://www.cloudcmx.com/'
