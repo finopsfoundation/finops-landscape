@@ -10,12 +10,15 @@ landscape:
             homepage_url: 'https://www.apptio.com/'
             logo: Apptio_logo.svg
             crunchbase: 'https://www.crunchbase.com/organization/apptio'
-            stock_ticker: null
           - item:
             name: Cloudhealth (FOTP)
             homepage_url: 'https://www.cloudhealthtech.com/'
             logo: cloudhealth.svg
             crunchbase: 'https://www.crunchbase.com/organization/vmware'
+          - item:
+            name: CloudCMx (FOTP)
+            homepage_url: 'https://www.cloudcmx.com/'
+            logo: cloudcmx.svg
           - item:
             name: Contino (FOTP)
             homepage_url: 'https://www.contino.com/'
@@ -49,6 +52,11 @@ landscape:
             logo: cloudwize.svg
             crunchbase: 'https://www.crunchbase.com/organization/cloudwize'
           - item:
+            name: Densify (FOCP)
+            homepage_url: 'https://www.densify.com/'
+            logo: densify.svg
+            crunchbase: 'https://www.crunchbase.com/organization/cirba-inc'
+          - item:
             name: Kubecost (FOCP)
             homepage_url: 'https://www.kubecost.com/'
             logo: kubecost.svg
@@ -59,10 +67,19 @@ landscape:
             logo: opsani.svg
             crunchbase: 'https://www.crunchbase.com/organization/opsani'
           - item:
+            name: Pileus (FOCP)
+            homepage_url: 'https://pileuscloud.com/'
+            logo: pileus.svg
+            crunchbase: 'https://www.crunchbase.com/organization/pileus' 
+          - item:
             name: ProsperOps (FOCP)
             homepage_url: 'https://www.prosperops.com/'
             logo: prosper.svg
-            crunchbase: 'https://www.crunchbase.com/organization/prosperops'   
+            crunchbase: 'https://www.crunchbase.com/organization/prosperops'
+          - item:
+            name: PyraCloud(SoftwareOne) (FOCP)
+            homepage_url: 'https://www.softwareone.com/en-gb/pyracloud'
+            logo: pyracloud.svg
   - category:
     name: Service Providers
     subcategories:
@@ -91,15 +108,27 @@ landscape:
             logo: contino.svg
             crunchbase: 'https://www.crunchbase.com/organization/contino'
           - item:
+            name: kruezwerker (FOSP)
+            homepage_url: 'https://kreuzwerker.de/en'
+            logo: kruezwerker.svg
+          - item:
             name: Neos (FOSP)
             homepage_url: 'https://www.neos.hr/'
             logo: neos.svg
             crunchbase: 'https://www.crunchbase.com/organization/neos-b2b0'
           - item:
+            name: SoftwareOne (FOSP)
+            homepage_url: 'https://www.softwareone.com/en-gb/'
+            logo: softwareone.svg
+          - item:
             name: Timspirit (FOSP)
             homepage_url: 'https://www.timspirit.fr/'
             logo: timspirit.svg
             crunchbase: 'https://www.crunchbase.com/organization/timspirit'
+          - item:
+            name: Virtasant (FOSP)
+            homepage_url: 'https://virtasant.com/'
+            logo: virtasant.svg
   - category:
     name: FinOps Foundation Member
     subcategories:
@@ -119,7 +148,10 @@ landscape:
             homepage_url: 'https://www.apptio.com'
             logo: Apptio_logo.svg
             crunchbase: 'https://www.crunchbase.com/organization/apptio'
-            stock_ticker: null
+          - item:
+            name: CloudCMx (member)
+            homepage_url: 'https://www.cloudcmx.com/'
+            logo: cloudcmx.svg
           - item:
             name: Cloudeasier (member)
             homepage_url: 'https://www.cloudeasier.com/'
@@ -141,15 +173,37 @@ landscape:
             logo: contino.svg
             crunchbase: 'https://www.crunchbase.com/organization/contino'
           - item:
+            name: Densify (member)
+            homepage_url: 'https://www.densify.com/'
+            logo: densify.svg
+            crunchbase: 'https://www.crunchbase.com/organization/cirba-inc'
+          - item:
+            name: kruezwerker (member)
+            homepage_url: 'https://kreuzwerker.de/en'
+            logo: kruezwerker.svg
+          - item:
             name: Neos (member)
             homepage_url: 'https://www.neos.hr/'
             logo: neos.svg
             crunchbase: 'https://www.crunchbase.com/organization/neos-b2b0'
           - item:
+            name: Pileus (member)
+            homepage_url: 'https://pileuscloud.com/'
+            logo: pileus.svg
+            crunchbase: 'https://www.crunchbase.com/organization/pileus'
+          - item:
+            name: PyraCloud(SoftwareOne) (member)
+            homepage_url: 'https://www.softwareone.com/en-gb/pyracloud'
+            logo: pyracloud.svg
+          - item:
             name: Timspirit (member)
             homepage_url: 'https://www.timspirit.fr/'
             logo: timspirit.svg
             crunchbase: 'https://www.crunchbase.com/organization/timspirit'
+          - item:
+            name: Virtasant (member)
+            homepage_url: 'https://virtasant.com/'
+            logo: virtasant.svg
           - item:
             name: Kubecost (member)
             homepage_url: 'https://www.kubecost.com/'
