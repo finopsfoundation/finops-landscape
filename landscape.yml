@@ -49,6 +49,11 @@ landscape:
             logo: cloudwize.svg
             crunchbase: 'https://www.crunchbase.com/organization/cloudwize'
           - item:
+            name: Densify (FOCP)
+            homepage_url: 'https://www.densify.com/'
+            logo: densify.svg
+            crunchbase: 'https://www.crunchbase.com/organization/cirba-inc'
+          - item:
             name: Kubecost (FOCP)
             homepage_url: 'https://www.kubecost.com/'
             logo: kubecost.svg
@@ -59,10 +64,15 @@ landscape:
             logo: opsani.svg
             crunchbase: 'https://www.crunchbase.com/organization/opsani'
           - item:
+            name: Pileus (FOCP)
+            homepage_url: 'https://pileuscloud.com/'
+            logo: pileus.svg
+            crunchbase: 'https://www.crunchbase.com/organization/pileus' 
+          - item:
             name: ProsperOps (FOCP)
             homepage_url: 'https://www.prosperops.com/'
             logo: prosper.svg
-            crunchbase: 'https://www.crunchbase.com/organization/prosperops'   
+            crunchbase: 'https://www.crunchbase.com/organization/prosperops'
   - category:
     name: Service Providers
     subcategories:
@@ -90,6 +100,11 @@ landscape:
             homepage_url: 'https://www.contino.com/'
             logo: contino.svg
             crunchbase: 'https://www.crunchbase.com/organization/contino'
+          - item:
+            name: kruezwerker (FOSP)
+            homepage_url: 'https://kreuzwerker.de/en'
+            logo: kruezwerker.svg
+            crunchbase: 'https://www.crunchbase.com/organization/kreuzwerker-gmbh'
           - item:
             name: Neos (FOSP)
             homepage_url: 'https://www.neos.hr/'
@@ -141,10 +156,25 @@ landscape:
             logo: contino.svg
             crunchbase: 'https://www.crunchbase.com/organization/contino'
           - item:
+            name: Densify (member)
+            homepage_url: 'https://www.densify.com/'
+            logo: densify.svg
+            crunchbase: 'https://www.crunchbase.com/organization/cirba-inc'
+          - item:
+            name: kruezwerker (member)
+            homepage_url: 'https://kreuzwerker.de/en'
+            logo: kruezwerker.svg
+            crunchbase: 'https://www.crunchbase.com/organization/kreuzwerker-gmbh'
+          - item:
             name: Neos (member)
             homepage_url: 'https://www.neos.hr/'
             logo: neos.svg
             crunchbase: 'https://www.crunchbase.com/organization/neos-b2b0'
+          - item:
+            name: Pileus (member)
+            homepage_url: 'https://pileuscloud.com/'
+            logo: pileus.svg
+            crunchbase: 'https://www.crunchbase.com/organization/pileus'
           - item:
             name: Timspirit (member)
             homepage_url: 'https://www.timspirit.fr/'
@@ -181,11 +211,6 @@ landscape:
             homepage_url: 'https://aws.amazon.com/'
             logo: amazon-web-services.svg
             crunchbase: 'https://www.crunchbase.com/organization/amazon-web-services'
-          - item:
-            name: Apple (adopter)
-            homepage_url: 'https://www.apple.com/'
-            logo: apple.svg
-            crunchbase: 'https://www.crunchbase.com/organization/apple'
           - item:
             name: Atlassian (adopter)
             homepage_url: 'https://www.atlassian.com'
