@@ -81,6 +81,7 @@ landscape:
             name: PyraCloud(SoftwareOne) (FOCP)
             homepage_url: 'https://www.softwareone.com/en-gb/pyracloud'
             logo: pyracloud.svg
+            crunchbase: 'https://www.crunchbase.com/organization/softwareone' 
   - category:
     name: Service Providers
     subcategories:
@@ -112,6 +113,7 @@ landscape:
             name: kruezwerker (FOSP)
             homepage_url: 'https://kreuzwerker.de/en'
             logo: kruezwerker.svg
+            crunchbase: 'https://www.crunchbase.com/organization/kruezwerker'
           - item:
             name: Neos (FOSP)
             homepage_url: 'https://www.neos.hr/'
@@ -121,6 +123,7 @@ landscape:
             name: SoftwareOne (FOSP)
             homepage_url: 'https://www.softwareone.com/en-gb/'
             logo: softwareone.svg
+            crunchbase: 'https://www.crunchbase.com/organization/softwareone' 
           - item:
             name: Timspirit (FOSP)
             homepage_url: 'https://www.timspirit.fr/'
@@ -130,6 +133,7 @@ landscape:
             name: Virtasant (FOSP)
             homepage_url: 'https://virtasant.com/'
             logo: virtasant.svg
+            crunchbase: 'https://www.crunchbase.com/organization/virtasant'
   - category:
     name: FinOps Foundation Member
     subcategories:
@@ -154,6 +158,7 @@ landscape:
             name: CloudCMx (member)
             homepage_url: 'https://www.cloudcmx.com/'
             logo: cloudcmx.svg
+            crunchbase: 'https://www.crunchbase.com/organization/cloudcmx'
           - item:
             name: Cloudeasier (member)
             homepage_url: 'https://www.cloudeasier.com/'
@@ -183,6 +188,7 @@ landscape:
             name: kruezwerker (member)
             homepage_url: 'https://kreuzwerker.de/en'
             logo: kruezwerker.svg
+            crunchbase: 'https://www.crunchbase.com/organization/kruezwerker'
           - item:
             name: Neos (member)
             homepage_url: 'https://www.neos.hr/'
@@ -197,6 +203,7 @@ landscape:
             name: PyraCloud(SoftwareOne) (member)
             homepage_url: 'https://www.softwareone.com/en-gb/pyracloud'
             logo: softwareone.svg
+            crunchbase: 'https://www.crunchbase.com/organization/softwareone' 
           - item:
             name: Timspirit (member)
             homepage_url: 'https://www.timspirit.fr/'
@@ -206,6 +213,7 @@ landscape:
             name: Virtasant (member)
             homepage_url: 'https://virtasant.com/'
             logo: virtasant.svg
+            crunchbase: 'https://www.crunchbase.com/organization/virtasant'
           - item:
             name: Kubecost (member)
             homepage_url: 'https://www.kubecost.com/'
