@@ -113,7 +113,7 @@ landscape:
             name: kruezwerker (FOSP)
             homepage_url: 'https://kreuzwerker.de/en'
             logo: kruezwerker.svg
-            crunchbase: 'https://www.crunchbase.com/organization/kruezwerker'
+            crunchbase: 'https://www.crunchbase.com/organization/kreuzwerker-gmbh'
           - item:
             name: Neos (FOSP)
             homepage_url: 'https://www.neos.hr/'
@@ -188,7 +188,7 @@ landscape:
             name: kruezwerker (member)
             homepage_url: 'https://kreuzwerker.de/en'
             logo: kruezwerker.svg
-            crunchbase: 'https://www.crunchbase.com/organization/kruezwerker'
+            crunchbase: 'https://www.crunchbase.com/organization/kreuzwerker-gmbh'
           - item:
             name: Neos (member)
             homepage_url: 'https://www.neos.hr/'
