@@ -17,10 +17,6 @@ landscape:
             logo: cloudhealth.svg
             crunchbase: 'https://www.crunchbase.com/organization/vmware'
           - item:
-            name: CloudCMx (FOTP)
-            homepage_url: 'https://www.cloudcmx.com/'
-            logo: cloudcmx.svg
-          - item:
             name: Contino (FOTP)
             homepage_url: 'https://www.contino.com/'
             logo: contino.svg
@@ -139,11 +135,6 @@ landscape:
             logo: Apptio_logo.svg
             crunchbase: 'https://www.crunchbase.com/organization/apptio'
             stock_ticker: null
-          - item:
-            name: CloudCMx (member)
-            homepage_url: 'https://www.cloudcmx.com/'
-            logo: cloudcmx.svg
-            crunchbase: 'https://www.crunchbase.com/organization/cloudcmx'
           - item:
             name: Cloudeasier (member)
             homepage_url: 'https://www.cloudeasier.com/'
