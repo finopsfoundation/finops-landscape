@@ -77,11 +77,6 @@ landscape:
             homepage_url: 'https://www.prosperops.com/'
             logo: prosper.svg
             crunchbase: 'https://www.crunchbase.com/organization/prosperops'
-          - item:
-            name: PyraCloud(SoftwareOne) (FOCP)
-            homepage_url: 'https://www.softwareone.com/en-gb/pyracloud'
-            logo: pyracloud.svg
-            crunchbase: 'https://www.crunchbase.com/organization/softwareone' 
   - category:
     name: Service Providers
     subcategories:
@@ -120,20 +115,10 @@ landscape:
             logo: neos.svg
             crunchbase: 'https://www.crunchbase.com/organization/neos-b2b0'
           - item:
-            name: SoftwareOne (FOSP)
-            homepage_url: 'https://www.softwareone.com/en-gb/'
-            logo: softwareone.svg
-            crunchbase: 'https://www.crunchbase.com/organization/softwareone' 
-          - item:
             name: Timspirit (FOSP)
             homepage_url: 'https://www.timspirit.fr/'
             logo: timspirit.svg
             crunchbase: 'https://www.crunchbase.com/organization/timspirit'
-          - item:
-            name: Virtasant (FOSP)
-            homepage_url: 'https://virtasant.com/'
-            logo: virtasant.svg
-            crunchbase: 'https://www.crunchbase.com/organization/virtasant'
   - category:
     name: FinOps Foundation Member
     subcategories:
@@ -200,20 +185,10 @@ landscape:
             logo: pileus.svg
             crunchbase: 'https://www.crunchbase.com/organization/pileus'
           - item:
-            name: PyraCloud(SoftwareOne) (member)
-            homepage_url: 'https://www.softwareone.com/en-gb/pyracloud'
-            logo: softwareone.svg
-            crunchbase: 'https://www.crunchbase.com/organization/softwareone' 
-          - item:
             name: Timspirit (member)
             homepage_url: 'https://www.timspirit.fr/'
             logo: timspirit.svg
             crunchbase: 'https://www.crunchbase.com/organization/timspirit'
-          - item:
-            name: Virtasant (member)
-            homepage_url: 'https://virtasant.com/'
-            logo: virtasant.svg
-            crunchbase: 'https://www.crunchbase.com/organization/virtasant'
           - item:
             name: Kubecost (member)
             homepage_url: 'https://www.kubecost.com/'
