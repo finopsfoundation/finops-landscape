@@ -166,35 +166,40 @@ landscape:
             logo: kruezwerker.svg
             crunchbase: 'https://www.crunchbase.com/organization/kreuzwerker-gmbh'
           - item:
-            name: Neos (member)
-            homepage_url: 'https://www.neos.hr/'
-            logo: neos.svg
-            crunchbase: 'https://www.crunchbase.com/organization/neos-b2b0'
-          - item:
-            name: Pileus (member)
-            homepage_url: 'https://pileuscloud.com/'
-            logo: pileus.svg
-            crunchbase: 'https://www.crunchbase.com/organization/pileus'
-          - item:
-            name: Timspirit (member)
-            homepage_url: 'https://www.timspirit.fr/'
-            logo: timspirit.svg
-            crunchbase: 'https://www.crunchbase.com/organization/timspirit'
-          - item:
             name: Kubecost (member)
             homepage_url: 'https://www.kubecost.com/'
             logo: kubecost.svg
             crunchbase: 'https://www.crunchbase.com/organization/kubecost'   
+          - item:
+            name: Neos (member)
+            homepage_url: 'https://www.neos.hr/'
+            logo: neos.svg
+            crunchbase: 'https://www.crunchbase.com/organization/neos-b2b0'
           - item:
             name: Opsani (member)
             homepage_url: 'https://www.opsani.com'
             logo: opsani.svg
             crunchbase: 'https://www.crunchbase.com/organization/opsani'
           - item:
+            name: Pileus (member)
+            homepage_url: 'https://pileuscloud.com/'
+            logo: pileus.svg
+            crunchbase: 'https://www.crunchbase.com/organization/pileus'
+          - item:
             name: ProsperOps (member)
             homepage_url: 'https://www.prosperops.com/'
             logo: prosper.svg
             crunchbase: 'https://www.crunchbase.com/organization/prosperops'   
+          - item:
+            name: Timspirit (member)
+            homepage_url: 'https://www.timspirit.fr/'
+            logo: timspirit.svg
+            crunchbase: 'https://www.crunchbase.com/organization/timspirit'
+          - item: 
+            name: Virtasant (member)
+            homepage_url: 'https://virtasant.com/'
+            logo: virtasant.svg
+            crunchbase: 'https://www.crunchbase.com/organization/virtasant'
   - category:
     name: FinOps Adopter
     subcategories:
