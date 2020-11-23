@@ -115,6 +115,11 @@ landscape:
             homepage_url: 'https://www.timspirit.fr/'
             logo: timspirit.svg
             crunchbase: 'https://www.crunchbase.com/organization/timspirit'
+          - item: 
+            name: Virtasant (member)
+            homepage_url: 'https://virtasant.com/'
+            logo: virtasant.svg
+            crunchbase: 'https://www.crunchbase.com/organization/virtasant'
   - category:
     name: FinOps Foundation Member
     subcategories:
