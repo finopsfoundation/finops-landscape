@@ -73,6 +73,11 @@ landscape:
             homepage_url: 'https://www.prosperops.com/'
             logo: prosper.svg
             crunchbase: 'https://www.crunchbase.com/organization/prosperops'
+          - item:
+            name: PyraCloud (SoftwareONE)(FOCP)
+            homepage_url: 'https://www.softwareone.com/'
+            logo: pyracloud.svg
+            crunchbase: 'https://www.crunchbase.com/organization/softwareone'
   - category:
     name: Service Providers
     subcategories:
