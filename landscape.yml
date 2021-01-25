@@ -97,7 +97,7 @@ landscape:
             crunchbase: 'https://www.crunchbase.com/organization/cloudeasier'
           - item:
             name: Cloudsoft (FOSP)
-            homepage_url: 'https://www.cloudsoft.com/'
+            homepage_url: 'https://www.cloudsoft.io/'
             logo: cloudsoft.svg
             crunchbase: 'https://www.crunchbase.com/organization/cloudsoft'
           - item:
@@ -157,7 +157,7 @@ landscape:
             crunchbase: 'https://www.crunchbase.com/organization/cloudeasier'
           - item:
             name: Cloudsoft (member)
-            homepage_url: 'https://www.cloudsoft.com/'
+            homepage_url: 'https://www.cloudsoft.io/'
             logo: cloudsoft.svg
             crunchbase: 'https://www.crunchbase.com/organization/cloudsoft'
           - item:
