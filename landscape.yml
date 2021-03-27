@@ -176,6 +176,12 @@ landscape:
             logo: densify.svg
             crunchbase: 'https://www.crunchbase.com/organization/cirba-inc'
           - item:
+            name: HCL (member)
+            homepage_url: 'https://hcl.com/'
+            logo: hcl.svg
+            crunchbase: 'https://www.crunchbase.com/organization/hcl-technologies'
+            stock_ticker: null
+          - item:
             name: kruezwerker (member)
             homepage_url: 'https://kreuzwerker.de/en'
             logo: kruezwerker.svg
