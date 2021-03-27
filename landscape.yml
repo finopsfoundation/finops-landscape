@@ -141,6 +141,11 @@ landscape:
             homepage_url: 'https://www.cloudhealthtech.com/'
             logo: cloudhealth.svg
             crunchbase: 'https://www.crunchbase.com/organization/vmware'
+          - item:
+            name: Google Cloud (member)
+            homepage_url: 'https://cloud.google.com/'
+            logo: google-cloud.svg
+            crunchbase: 'https://www.crunchbase.com/organization/google-cloud-platform'
       - subcategory:
         name: General
         items:
